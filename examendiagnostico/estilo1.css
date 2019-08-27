@@ -1,0 +1,71 @@
+
+ h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+body{
+    background-color:  #e1e1e1
+
+}
+	.contenedor
+
+	{
+		text-align: center	
+
+
+	}
+	.centrar
+		{
+			margin-left: 430px;
+			padding: 20px;
+		}
+     .titulo
+		{
+			border: 5px;
+			background: #000000;
+			color: #ffffff;
+			text-align: center;
+
+		}
+		.numeros
+		{
+
+			width: 400px;
+			text-align: center;
+			background: #ffffff;
+			color: #000000;
+		}
+		.calculo
+		{
+			text-align: left;
+			background: #ffffff;
+			color: #000000;
+		}
+		.resultado
+		{
+			text-align: right;
+			background: #ffffff;
+			color: #000000;
+
+		}
+		
+button{
+	 font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular;
+          color: black;
+
+
+}
+
+form {
+
+    display: inline-block;
+
+    text-align: center;
+
+}
+.botones{
+	 text-align: center;
+}
+#Table{
+   margin: auto;
+}
